@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+ 
+     font-family: 'Brush Script MT', cursive;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #b7e4c7;
+    color: #2b2839;
+    border-bottom: 6px solid #40916c;
+    border-radius: 10px;
+    box-shadow: 0 8px 10px 0 #2b2839;
+  
+
+.border-blue {
+    border: 1px dotted blue;
+}
+
